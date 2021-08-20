@@ -1,0 +1,1 @@
+this application is a quiz game.The topic is about facts on Stranger things Series which is being aired on netflix

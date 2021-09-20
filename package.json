@@ -1,0 +1,24 @@
+{
+  "name": "quiz-about-series",
+  "version": "1.0.0",
+  "description": "this application is a quiz game.The topic is about facts on Stranger things Series which is being aired on netflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammed-sas/quiz-about-series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammed-sas/quiz-about-series/issues"
+  },
+  "homepage": "https://github.com/mohammed-sas/quiz-about-series#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
